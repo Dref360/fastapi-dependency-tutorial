@@ -1,0 +1,8 @@
+{
+    "deals": {
+        "customer_b": [
+            {"id": "deal_x", "title": "Renewal Deal", "stage": "In Progress"},
+            {"id": "deal_y", "title": "Expansion Deal", "stage": "Closed Lost"}
+        ]
+    }
+}

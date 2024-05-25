@@ -1,0 +1,8 @@
+{
+    "deals": {
+        "customer_a": [
+            {"id": "deal_1", "title": "Mega Deal", "stage": "Closed Won"},
+            {"id": "deal_2", "title": "Terrible Deal", "stage": "Closed Lost"}
+        ]
+    }
+}
