@@ -9,6 +9,10 @@ In this tutorial, we will visit a usecase often seen in production. Your custome
 
 Our App will use Dependency Injection to fetch our customers' deals from multiple CRM (Salesforce or Hubspot).
 
+<a href="https://www.youtube.com/watch?v=47pLaFosHRE">
+  <img src="https://github.com/Dref360/fastapi-dependency-tutorial/assets/8976546/0ac52c33-50cc-4456-9c33-ebb7a5ee7f36" width="40%" />
+</a>
+
 
 **Resources**
 
