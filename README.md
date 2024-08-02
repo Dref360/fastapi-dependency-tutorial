@@ -35,4 +35,4 @@ DI has many advantages:
 
 **Why this tutorial?**
 
-The most common example of DI is the "Logger" example which I find uninspiring and doesn't teach you 
+The most common example of DI is the "Logger" example which I find uninspiring and doesn't teach you why you should use DI. I wanted to propose a practical example that anyone can easily understand.
